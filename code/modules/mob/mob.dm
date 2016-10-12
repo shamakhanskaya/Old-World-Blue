@@ -413,7 +413,6 @@
 	set name = "Changelog"
 	set category = "OOC"
 	getFiles(
-		'html/88x31.png',
 		'html/bug-minus.png',
 		'html/cross-circle.png',
 		'html/hard-hat-exclamation.png',
